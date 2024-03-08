@@ -9,7 +9,7 @@ The dataset used for training and evaluation is the Fake News Dataset which cons
 
 ![image](https://github.com/muhammadmehdi89/Fake-News-Detection/assets/142395586/5dbd5b47-adcb-48a3-88e5-54e66599930c)
 
-### I Have Got Excellent Validation and Test Accuracy:
+### I have got an Excellent Validation and Test Accuracy:
 
 ![image](https://github.com/muhammadmehdi89/Fake-News-Detection/assets/142395586/1957f8f7-0a40-466e-b042-903bd77fdf91)
 
