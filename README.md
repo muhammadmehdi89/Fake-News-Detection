@@ -17,7 +17,8 @@ The dataset used for training and evaluation is the Fake News Dataset which cons
 
 ![image](https://github.com/muhammadmehdi89/Fake-News-Detection/assets/142395586/b9f6637a-ffdf-4efb-bdc9-936d8e96fdf0)
 
-Requirements
+### Requirements:
+
 TensorFlow 2.x
 Keras
 Pandas
