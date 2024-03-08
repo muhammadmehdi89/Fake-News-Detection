@@ -19,10 +19,15 @@ The dataset used for training and evaluation is the Fake News Dataset which cons
 
 ### Requirements:
 
-TensorFlow 2.x
+TensorFlow 
+
 Keras
+
 Pandas
+
 NumPy
+
 NLTK (Natural Language Toolkit)
+
 gensim.
 
